@@ -1,0 +1,9 @@
+platform,author,review_text,rating,cleaned_text,compound_score,sentiment
+Google,Nikini Pahandi,"Worst recruitment company ever. Completely unprofessional, rude, and careless.",1,worst recruitment company ever completely unprofessional rude and careless,-0.9256,Negative
+Google,Geshani De Silva,The most disappointing recruitment company I’ve ever dealt with.,1,the most disappointing recruitment company ive ever dealt with,-0.5413,Negative
+Google,Foldora Craft,Unprofessional and disrespectful. They act like customers don’t matter.,1,unprofessional and disrespectful they act like customers dont matter,-0.2201,Negative
+Google,Sapthika Gamage,Highly recommended.,5,highly recommended,0.2716,Positive
+Website,CBL Group,I must commend their exceptional professionalism and collaborative partnership.,5,i must commend their exceptional professionalism and collaborative partnership,0.4404,Positive
+Website,Gnanam Food,Working with Gamage Recruiters was a game-changer! Precision and speed.,5,working with gamage recruiters was a gamechanger precision and speed,0.0,Neutral
+Facebook,Selin Demir,A great place that assist you in building your career and improve skills.,5,a great place that assist you in building your career and improve skills,0.7906,Positive
+Facebook,Malinda Gamaethige,Highly recommended for all your job needs. Very supportive.,5,highly recommended for all your job needs very supportive,0.5553,Positive
