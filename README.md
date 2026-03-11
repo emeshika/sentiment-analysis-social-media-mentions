@@ -16,6 +16,6 @@ The primary goal of this project was to create a pipeline that identifies and ca
 * Version Control: Managed development through modular Git branches
 
 ## Repository Structure
-/data: Contains processed and cleaned datasets used for sentiment classification.
-/docs: Final project documentation and user manuals.
-/src: Modular code for data processing and model logic.
+* /data: Contains processed and cleaned datasets used for sentiment classification.
+* /docs: Final project documentation and user manuals.
+* /src: Modular code for data processing and model logic.
